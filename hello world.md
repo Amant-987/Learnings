@@ -1,8 +1,12 @@
-Hello World!
+# First file for Control Version
+
+## Change text
 
 *Kursive.*
 
 **Fat** 
+
+## List
 
 * Element 1
 * Element 2
@@ -11,5 +15,3 @@ Hello World!
 1. First element
 2. Second element
 3. Third Element
-
-Started our Intro with Control Version
