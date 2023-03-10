@@ -36,3 +36,9 @@ The **git mv** command is just a convenient way to move a file and then do **git
 
 ### *Clean up "garbage"*
 The **git clean** command is used to remove garbage from the working directory. This can be build results of a project or merge conflict files.
+
+Follow the links below for articles to learn more about Git:
+
+[Git for Newbie. Part 1](https://habr.com/ru/post/541258/)
+
+[Git for Newbie. Part 2](https://habr.com/ru/post/542616/)
