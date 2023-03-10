@@ -7,6 +7,9 @@ Git is a DevOps tool used for source code management. It is a free and open-sour
 To create a repository, run the command **git init** in the folder with the repository and you will create a repository (a hidden .git folder will appear)
 
 ## Main command for the Git
+    Before you use Git for the first time, you should introduce yourself. In the terminal, type two commands:
+    1. git config --global user.name "your name on English"
+    2. git config --global user.name <your email>
 
 ### Git add
 You can use the **git add** command to add the changes to the commit. To execute this command, type **git add <file name>**
@@ -15,4 +18,4 @@ You can use the **git add** command to add the changes to the commit. To execute
 You can use the **git status** command to see the status of the repository. You can do this by typing **git status** in the repository folder and you will see whether the files have been modified or not.
 
 ### Creating the commit
-To create the commits, run the command **git commit**. 
+To create the commits, run the command **git commit**. Write **git commit -m "your message "** in the terminal, and *Git* add your message to the changes you've made.
