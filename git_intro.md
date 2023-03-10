@@ -19,3 +19,4 @@ You can use the **git status** command to see the status of the repository. You 
 
 ### Creating the commit
 To create the commits, run the command **git commit**. Write **git commit -m "your message "** in the terminal, and *Git* add your message to the changes you've made.
+
