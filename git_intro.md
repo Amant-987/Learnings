@@ -31,6 +31,18 @@ The command **git reset**, as you can guess from the name, is mainly used to und
 ### *Deleting a Git repository*
 The **git rm** command is used in Git to remove files from the index and working copy. It is similar to **git add** with the only exception that it removes rather than adds files for the next commit.
 
+### *Create branch*
+The **git branch command** is a kind of "branch manager". It knows how to list your branches, create new ones, delete and rename them.
+
+
+
+### *Git checkout*
+The **git checkout** command is used to switch branches and upload their contents to the working directory.
+
+
+### *Merge branch*
+
+
 ### *Move a file*
 The **git mv** command is just a convenient way to move a file and then do **git add** for the new file and **git rm** for the old one.
 
@@ -42,6 +54,8 @@ Follow the links below for articles to learn more about Git:
 [Git for Newbie. Part 1](https://habr.com/ru/post/541258/)
 
 [Git for Newbie. Part 2](https://habr.com/ru/post/542616/)
+
+[Git Commands](https://git-scm.com/book/ru/v2/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%9E-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B5-%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8F-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B9)
 
 
 
