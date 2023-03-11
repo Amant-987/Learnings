@@ -42,3 +42,34 @@ Follow the links below for articles to learn more about Git:
 [Git for Newbie. Part 1](https://habr.com/ru/post/541258/)
 
 [Git for Newbie. Part 2](https://habr.com/ru/post/542616/)
+
+
+
+# Introduction for Markdown
+## What is Markdown?
+
+Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one of the world’s most popular markup languages.
+
+Using Markdown is different than using a WYSIWYG editor. In an application like Microsoft Word, you click buttons to format words and phrases, and the changes are visible immediately. Markdown isn’t like that. When you create a Markdown-formatted file, you add Markdown syntax to the text to indicate which words and phrases should look different.
+
+For example, to denote a heading, you add a number sign before it (e.g., # Heading One). For other heading - use **##** or **###** (that would be smaller)
+
+Or to make a phrase bold, you add two **' * '** or two **' _ '** before and after it (e.g., **this text is bold** or __this one__). It may take a while to get used to seeing Markdown syntax in your text, especially if you’re accustomed to WYSIWYG applications. The screenshot below shows a Markdown file displayed in the Visual Studio Code text editor.
+
+## Main commands for formating
+
+### How Creating a Table
+You need to use this one '|' for columns, and this one '---' for lines. 
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+### **Bold** __text__
+Add two **' * '** or two **' _ '** before and after it (e.g., **this text is bold** or __this one__)
+
+### *Italic* _text_
+Add one ' * ' or ' _ ' before and after it.
+
+### Creating Headings
+Use ' # ' characters before your Headings for declaration. Two or more will make your Heading smaller in size. You can trim paragraphs in this way.
