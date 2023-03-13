@@ -90,7 +90,7 @@ Use ' # ' characters before your Headings for declaration. Two or more will make
 
 
 __Wir haben guten Tag!__
-__Haben Sie Antworten?__
+__*Haben Sie Antworten?*__
 **Haben Sie Fragen?**
 
 
