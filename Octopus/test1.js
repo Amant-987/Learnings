@@ -1,0 +1,1 @@
+console.log("Guten Tag, Damen und Herren")
