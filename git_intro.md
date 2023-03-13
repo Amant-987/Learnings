@@ -35,7 +35,7 @@ The **git rm** command is used in Git to remove files from the index and working
 The **git branch <name of branch>** is a kind of "branch manager". It knows how to list your branches, create new ones, delete and rename them.
 
 ### *Merge branch*
-The __git merge <name of braunch to merge>__ command is used to merge one or more branches into the current branch. It then sets the pointer of the current branch to the resulting commit.
+The __git merge <name of branch to merge>__ command is used to merge one or more branches into the current branch. It then sets the pointer of the current branch to the resulting commit.
 
 ### *Git checkout*
 The **git checkout <name of branch>** command is used to switch branches and upload their contents to the working directory.
